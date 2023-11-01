@@ -1,0 +1,210 @@
+body {
+    font-family: 'Manrope';
+    background-color: #F5F5F5;
+    width: 1400px;
+}
+
+.hero__box {
+    padding: 128px 125px 150px 125px;
+    background-color: #FFFFFF;
+}
+
+h1 {
+    color: #121212;
+    font-family: 'Manrope', sans-serif;    
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 60px;
+    letter-spacing: -1.8px;
+    width: 956px;
+    padding: 0px 0px 30px 0px;
+}
+
+.image__one {
+    background-image: url(fon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1150px;
+    height: 500px;
+}
+
+.image__one-text {
+    color: #FFF;
+    font-family: 'Manrope', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.6px;
+    padding: 379px 680px 40px 40px;
+}
+
+.description {
+    padding: 0px 224px 30px 125px;
+    background-color: #FFFFFF;
+    padding-bottom: 150px;
+}
+
+h2 {
+    color: #121212;
+    font-family: Manrope;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: -0.54px;
+    text-transform: uppercase;
+    background-color: #FFFFFF;
+    padding: 0px 1000px 30px 0px;
+}
+
+.about {
+    background-color: #FFFFFF;
+    color: #121212;
+    font-family: Manrope;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -1.35px;
+    padding: 0px 0px 30px 3px;
+}
+
+.description__uslugi {
+    color: #FFF;
+    width: 255px;
+    height: 67px;
+    border-radius: 5px;
+    border-color: #AD1818;
+    padding: 20px 40px 20px 40px;
+    text-decoration: none;
+    font-family: Manrope;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.6px;
+    background-color: #AD1818;
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.button-area {
+    background-color: #FFFFFF;
+    padding: 0px 1020px 150px 125px;
+}
+
+.projects {
+    background-color: #FFFFFF;
+    padding: 0px 125px 206px 125px;
+}
+
+h3 {
+    margin-bottom: 30px;
+    color: #121212;
+    font-family: Manrope;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    width: 79px;
+    height: 25px;
+    letter-spacing: -0.54px;
+    text-transform: uppercase;
+    background-color: #FFFFFF;
+    padding-right: 1196px;
+}
+
+.image__project {
+    width: 1150px;
+    height: 450px;
+    background-size: cover;
+    padding-bottom: 15px;
+}
+
+.name__project {
+    size: 127px 27px;
+    color: #121212;
+    font-family: Manrope;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.9px;
+    padding-bottom: 15px;
+}
+
+.description__project-button {
+    padding: 0px 0px 90px 2px;
+}
+
+.description__project {
+    text-decoration: none;
+    color: #AD1818;
+    font-family: Manrope;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.6px;
+}
+
+.show__all-projects {
+    text-align: center;
+    border: 1px solid #AD1818;
+    border-radius: 5px;
+}
+
+.projects__button {
+    display: block;
+    color: #AD1818;
+    text-decoration: none;
+    font-family: Manrope;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 153px;
+    letter-spacing: -0.9px;
+}
+
+.projects__button:hover {
+    color:#FFF;
+    background-color: #AD1818;
+}
+
+.section {
+    background-color: #121212;
+    padding: 151px 0px 150px 125px;
+}
+
+h4 {
+    padding: 0px 0px 34px 2px;
+    color: #FFF;
+    font-family: Manrope;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.54px;
+    text-transform: uppercase;
+}
+
+.working {
+    padding-top: 15px;
+    color: #FFF;
+    font-family: Manrope;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.9px;
+}
+
+.container__img {
+    margin-bottom: 60px;
+}
+
+.container:nth-last-child(1) {
+    margin-bottom: 0px;
+}
+
