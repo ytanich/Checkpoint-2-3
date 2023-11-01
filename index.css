@@ -2,6 +2,7 @@ body {
     font-family: 'Manrope';
     background-color: #F5F5F5;
     width: 1400px;
+    margin: 0 auto;
 }
 
 .hero__box {
@@ -22,6 +23,7 @@ h1 {
 }
 
 .image__one {
+    position: relative;
     background-image: url(fon.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -30,6 +32,10 @@ h1 {
 }
 
 .image__one-text {
+    position: absolute;
+    width: 430px;
+    bottom: 40px;
+    left: 40px;
     color: #FFF;
     font-family: 'Manrope', sans-serif;
     font-size: 20px;
@@ -37,7 +43,6 @@ h1 {
     font-weight: 400;
     line-height: normal;
     letter-spacing: -0.6px;
-    padding: 379px 680px 40px 40px;
 }
 
 .description {
